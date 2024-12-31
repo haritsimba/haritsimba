@@ -39,7 +39,7 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,linux,androidstudio,windows,vscode,visualstudio,firebase,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=git,zsh,linux,androidstudio,vscode,npm,figma" />
   </a>
 </p>
 <p align="center">
