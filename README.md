@@ -19,7 +19,7 @@
 <h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+    <img src="https://skillicons.dev/icons?i=java,rust,js,php" />
   </a>
 </p>
 
