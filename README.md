@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haritsimba&label=Profile%20views&color=0e75b6&style=flat" alt="Haritsimba" /> </p>
 
-- 🔭 I’m currently working on [Random_projects](https://github.com/josoavj)
+- 🔭 I’m currently working on [Random_projects](https://github.com/haritsimba)
 
 - 🌱 I’m currently learning **React Native, Typescript and Solana**
 
