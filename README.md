@@ -39,7 +39,7 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,zsh,linux,androidstudio,vscode,npm,figma,vite" />
+    <img src="https://skillicons.dev/icons?i=git,bash,linux,androidstudio,vscode,npm,vite" />
   </a>
 </p>
 <p align="center">
@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=305&color=gradient&text=Haritsimba"/>
 </p>
