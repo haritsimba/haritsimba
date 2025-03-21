@@ -43,7 +43,7 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=haritsimba&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="haritsimba" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=haritsimba&theme=tokyonight"  alt="haritsimba" />
 </p>
 
 <p align="center">
