@@ -26,14 +26,14 @@
 <h3 align="left">Framework:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,tailwind,express,react,ts" />
+    <img src="https://skillicons.dev/icons?i=reactnative,tailwind,express,react,ts" />
   </a>
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,mariadb" />
   </a>
 </p>
 <h3 align="left">Tools:</h3>
@@ -43,7 +43,7 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=josoavj&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="josoavj" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=haritsimba&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="haritsimba" />
 </p>
 
 <p align="center">
