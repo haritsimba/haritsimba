@@ -26,7 +26,7 @@
 <h3 align="left">Framework:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=reactnative,tailwind,express,react,ts" />
+    <img src="https://skillicons.dev/icons?i=laravel,spring,tailwind,express,react,ts,vue" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 <h3 align="left">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,zsh,linux,androidstudio,vscode,npm,figma" />
+    <img src="https://skillicons.dev/icons?i=git,zsh,linux,androidstudio,vscode,npm,figma,vite" />
   </a>
 </p>
 <p align="center">
