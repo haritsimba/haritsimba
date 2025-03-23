@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Typescript and Solidity**
 
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/haritsimba)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/haritsimba?tab=repositories)
 
 - 📫 How to reach me [my email](haritsimbafranck@gmail.com)
 
