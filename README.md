@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haritsimba&label=Profile%20views&color=0e75b6&style=flat" alt="Haritsimba" /> </p>
 
-- 🔭 I’m currently working on [Random_projects](https://github.com/gasikaradigital/instance-erpinnov)
+- 🔭 I’m currently working on [ERP Project](https://github.com/gasikaradigital/instance-erpinnov)
 
 - 🌱 I’m currently learning **React Native, Typescript and Solidity**
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/haritsimba?tab=repositories)
 
-- 📫 How to reach me [my email](haritsimbafranck@gmail.com)
+- 📫 How to reach me [haritsimbafranck@gmail.com](haritsimbafranck@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
