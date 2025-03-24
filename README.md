@@ -41,7 +41,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,linux,androidstudio,vscode,npm,vite" />
   </a>
-<h3 align="left">Stats</h3>
+<h3 align="left">Stats:</h3>
 <p align="center">
   <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haritsimba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
