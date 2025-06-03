@@ -41,11 +41,21 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,linux,androidstudio,vscode,npm,vite" />
   </a>
-<h3 align="left">Stats:</h3>
-<p align="center">
-  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haritsimba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </div>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"/>
+
+---
+
+
+
+<h4 align="center">📊Stats</h4>
+
+<div align="center">
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonastino21&theme=tokyonight&hide_border=true&cache_bust=1"/>
+</p>
+
+</div>
+
+
+---     <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"/>
 </p>
