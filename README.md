@@ -51,11 +51,13 @@
 <div align="center">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonastino21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonastino21&theme=tokyonight&hide_border=true&cache_bust=1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haritsimba&theme=tokyonight&hide_border=true&cache_bust=1"/>
 </p>
 
 </div>
 
 
----     <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"/>
+---     
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient"/>
 </p>
