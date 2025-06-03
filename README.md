@@ -57,7 +57,4 @@
 </div>
 
 
----     
-<p align="center" >
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient" />
-</p>
+---
