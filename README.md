@@ -19,14 +19,14 @@
 <h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,rust,js,php,solidity" />
+    <img src="https://skillicons.dev/icons?i=java,rust,js,php,solidity,ts" />
   </a>
 </p>
 
 <h3 align="left">Framework:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,spring,tailwind,express,react,ts,vue" />
+    <img src="https://skillicons.dev/icons?i=laravel,spring,tailwind,express,react,vue" />
   </a>
 </p>
 
